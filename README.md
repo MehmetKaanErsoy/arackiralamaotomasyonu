@@ -25,7 +25,7 @@
 
 ![kiralamaislemi](https://user-images.githubusercontent.com/68550841/119181218-f50cd480-ba79-11eb-8cdb-08991a7071bc.png)
 
-Kira sorgulamalarını yapabilirsiniz.
+## Kira sorgulamalarını yapabilirsiniz.
 
 ![arackirasorgu](https://user-images.githubusercontent.com/68550841/119183374-ac0a4f80-ba7c-11eb-910f-828d2ae1c52c.png)
 
