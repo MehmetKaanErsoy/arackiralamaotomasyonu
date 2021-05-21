@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Kütüphane" uuid="6e470ffa-b0f0-48ba-89ce-e01064b65ef8">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Kaan\PycharmProjects\pythonProject1\Kütüphane.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="veritabanı" uuid="71c68ae3-7d84-4b3d-87cd-628862de390f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Kaan\PycharmProjects\pythonProject1\veritabanı.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
