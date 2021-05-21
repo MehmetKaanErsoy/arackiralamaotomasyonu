@@ -1,0 +1,2 @@
+# arackiralamaotomasyonu
+ arackiralama
