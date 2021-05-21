@@ -34,5 +34,5 @@
 
 ## Kira'da olan araçları görebilir onları üzerinde işlem yapabilir ve excel'e gönderip rapor haline getirebilirsiniz.
 
-![kiralistele](https://user-images.githubusercontent.com/68550841/119181449-4ae17c80-ba7a-11eb-8444-9cd6f466e8e9.png)
+![kiralistele](https://user-images.githubusercontent.com/68550841/119185294-48cdec80-ba7f-11eb-9aca-020a3cbbdbf1.png)
 
