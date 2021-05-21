@@ -25,6 +25,13 @@
 
 ![kiralamaislemi](https://user-images.githubusercontent.com/68550841/119181218-f50cd480-ba79-11eb-8cdb-08991a7071bc.png)
 
+Kira sorgulamalarını yapabilirsiniz.
+
+![arackirasorgu](https://user-images.githubusercontent.com/68550841/119183374-ac0a4f80-ba7c-11eb-910f-828d2ae1c52c.png)
+
+![musteridevar](https://user-images.githubusercontent.com/68550841/119183385-af9dd680-ba7c-11eb-9907-bac598faafcd.png)
+
+
 ## Kira'da olan araçları görebilir onları üzerinde işlem yapabilir ve excel'e gönderip rapor haline getirebilirsiniz.
 
 ![kiralistele](https://user-images.githubusercontent.com/68550841/119181449-4ae17c80-ba7a-11eb-8444-9cd6f466e8e9.png)
